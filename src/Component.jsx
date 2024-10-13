@@ -7,6 +7,7 @@ export default function Component() {
   
     return (
     <div>
+        <input type="text" placeholder='User'/> <br />
         <button   onClick={AJOI}  >da click</button>
     </div>
   )
